@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd65fDc22478F5989c54e6096CA8B06B6E3691AE0",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd65fdc22478f5989c54e6096ca8b06b6e3691ae0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored aDi Stream Club",
+  "SYMBOL": "BASC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4300000000000000,
+  "DISPLAY_COST": 11,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-adi-stream-club",
+  "SHOW_BACKGROUND": true
+}
